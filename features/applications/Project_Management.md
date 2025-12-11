@@ -311,4 +311,4 @@ Just follow this guide to log into our publicly available test instance of ERP.n
 
 **[Project Management in ERP.net — Try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**
 
-**[Access credentials — Use these to log in.]**(https://info.erp.net/information/try-our-system.html)
+**[Access credentials — Use these to log in.](https://info.erp.net/information/try-our-system.html)**
