@@ -1,20 +1,11 @@
 # When Projects Drive the Business
 
-In modern companies, ideas create movement. New products, improvements, client initiatives, internal processes — each of them requires coordination, clear steps, and visibility over progress.
+In modern companies, ideas create movement. New products, improvements, client initiatives, and internal processes all require coordination, clear steps, and visibility over progress.
+Yet projects often scatter across emails, meetings, spreadsheets, and a dozen communication channels. Sometimes something else happens as well — initiatives that “swim below the radar.”
 
-Yet projects often scatter across emails, meetings, spreadsheets, and a dozen communication channels.  
-And sometimes something else happens — initiatives that “swim below the radar.”
-
-Someone starts solving a problem, two or three colleagues join in, then another one...  
-Work is being done, time is being invested, people put in effort — but there is no official project, no record, no visibility.
-
-These are the so-called *submarine projects* — the “hidden” projects of an organization.  
-They happen.  
-They consume resources.  
-But they are often neither seen, nor tracked, nor managed well.  
-And most importantly — leadership struggles to evaluate their impact or the workload they create.
-
-Regardless of the industry — manufacturing, services, distribution, commerce, technology — the question remains the same:
+Someone starts solving a problem, two or three colleagues join in, then another one. Work is being done, time is being invested, people put in effort — but there is no official project, no record, and no visibility.
+These are the so-called *submarine projects* — the “hidden” projects of an organization. They happen, they consume resources, but they are often neither seen, nor tracked, nor managed well. Most importantly, leadership struggles to evaluate their impact or the workload they create.
+Regardless of the industry — manufacturing, services, distribution, commerce, or technology — the question remains the same:
 
 **“Where do we stand right now, and what comes next?”**
 
@@ -26,29 +17,11 @@ Fortunately, there is.
 
 ## There Is an Easier Way to Manage Your Projects
 
-Imagine all company initiatives — big or small — gathered in one place.  
-A place where every idea receives structure, every task has its place, and every step is part of a logical sequence.
+Imagine all company initiatives — big or small — gathered in one place. A place where every idea receives structure, every task has its place, and every step is part of a logical sequence.
+A place where every step is clear, every task has an owner, every action has history, progress is visible without asking anyone, and documents, files, and communication are organized and available when needed.
 
-A place where:
-
-- every step is clear — no time wasted in clarifications  
-- every task has an owner — responsibilities are visible  
-- every action has history — you know what happened and why  
-- progress is visible without asking anyone  
-- documents, files, and communication are organized and available when needed  
-
-This is not merely convenience.  
-It’s a way of working that gives:
-
-- peace of mind to teams  
-- confidence to managers  
-- consistency to processes  
-- predictability to results  
-
-When everything lives in one place, projects start to move more naturally.  
-People work in sync.  
-Resources are used more wisely.  
-Initiatives don’t sink into “submarine” efforts — they become visible and traceable.
+This is not merely convenience. It’s a way of working that gives peace of mind to teams, confidence to managers, consistency to processes, and predictability to results.
+When everything lives in one place, projects start to move more naturally. People work in sync, resources are used more wisely, and initiatives no longer sink into “submarine” efforts — they become visible and traceable.
 
 This clarity and order is exactly what **Project Management in ERP.net** delivers — helping organizations turn ideas into real outcomes without complicating their processes.
 
@@ -56,58 +29,31 @@ This clarity and order is exactly what **Project Management in ERP.net** deliver
 
 ## What Project Management in ERP.net Is
 
-Project Management in ERP.net is the core that connects people, ideas, and actions into a structured, traceable, and understandable flow of work.  
-Whether it’s client service, an internal initiative, product development, or coordination between teams — the module turns work into sequence, and sequence into results.
+Project Management in ERP.net is the core that connects people, ideas, and actions into a structured, traceable, and understandable flow of work. Whether it’s client service, an internal initiative, product development, or coordination between teams, the module turns work into sequence — and sequence into results.
 
-At its foundation stand several key components that naturally work together:
+At its foundation stand several key components that naturally work together.
 
 ### **Projects — the framework of every initiative**
 
-Each project in ERP.net acts as a “container” that gathers everything related to an initiative:
-
-- goals  
-- participants  
-- expected outcomes  
-- stages  
-- relevant information  
-- documents  
-- communication  
-
-This is the central point that provides an overview of the work — whether it’s a major corporate project or a small internal effort with just a few steps.
+Each project in ERP.net acts as a container that gathers everything related to an initiative: goals, participants, expected outcomes, stages, relevant information, documents, and communication.
+This central point provides an overview of the work — whether it’s a major corporate project or a small internal effort with just a few steps.
 
 ### **Project Areas — organizing work into meaningful sections**
 
-A large project becomes far more comprehensible when divided into zones.  
-With **Project Areas**, you can structure the work by:
+Large projects become far more comprehensible when divided into zones. With **Project Areas**, work can be structured by phases, activity types, business functions, teams, or work streams.
 
-- phases  
-- activity types  
-- business functions  
-- teams  
-- work streams  
-
-Examples include *Planning*, *Execution*, *Marketing*, *Communications*, *Finalization*.  
-This helps both large and small teams visualize the big picture without losing the details.
+Examples include Planning, Execution, Marketing, Communications, or Finalization. This helps both large and small teams visualize the big picture without losing the details.
 
 ### **Tasks (Cases) — the concrete steps that move the project forward**
 
-Real work happens in the details.
+Real work happens in the details. In ERP.net, these actions take the form of **Tasks (Cases)** — clearly defined steps that move the project forward.
 
-Each task is a clearly defined action:
-
-- what needs to be done  
-- who is responsible  
-- the deadline  
-- current status  
-- related documents or comments  
-
-ERP.net allows you to organize, filter, group, and track all tasks so that no important step is ever lost — even in large projects with many contributors.
+Each task specifies what needs to be done, who is responsible, the deadline, the current status, and any related documents or comments. ERP.net allows teams to organize, filter, group, and track tasks so that no important step is ever lost — even in large projects with many contributors.
 
 ### **Documents and Files — everything in the right place**
 
-No more searching for attachments in emails, old messages, or folders named *“Final version v5”*.  
+No more searching for attachments in emails, old messages, or folders named *“Final version v5”*.
 Documents, contracts, specifications, protocols, images, comments — everything lives inside the project.
-
 This increases productivity and keeps context clear, even when the team grows or someone joins later.
 
 ### **History and Communication — every action has context**
@@ -146,9 +92,8 @@ ERP.net makes each step lighter, clearer, and more visible.
 
 ## How It Works — Told as a Real Process
 
-Managing a project often seems daunting: many people, many tasks, many unknowns.  
+Managing a project often seems daunting: many people, many tasks, many unknowns.
 But in practice — and especially in ERP.net — the process is far more natural than it sounds.
-
 Imagine you’re starting a new initiative. It might be something big like preparing for a trade show, or something small like improving an internal process. What’s the first thing you do?
 
 ### **1. You give it a name — and the project finally has a “home”**
@@ -168,7 +113,7 @@ In ERP.net this idea becomes a **Project** — a protected space that gathers ev
 - deadlines  
 - expected outcomes  
 
-This is the moment the project is “born” — no longer just a conversation or an email.  
+This is the moment the project is “born” — no longer just a conversation or an email.
 It has a name, a beginning, a purpose.
 
 ### **2. You structure it — using Project Areas**
@@ -199,7 +144,7 @@ With Project Areas:
 
 ### **3. You add the tasks — and the project begins to “breathe”**
 
-Projects move through small, concrete actions.  
+Projects move through small, concrete actions.
 In ERP.net these actions are **Tasks (Cases)** — clearly defined steps leading to progress.
 
 Examples:
@@ -222,7 +167,6 @@ Each task has:
 - a link to its Project Area  
 
 The work is no longer scattered — everything becomes logical and traceable.
-
 This is when the project begins to “breathe” — moving, evolving, living alongside the team.
 
 ### **4. You track progress — without constant status meetings**
@@ -235,7 +179,7 @@ Progress is visible throughout the module:
 - who is actively involved  
 - what affects milestones and deadlines  
 
-ERP.net updates this in real time as people work.  
+ERP.net updates this in real time as people work.
 No more *“What’s happening here?”* emails or emergency sync meetings.
 
 Instead of gathering information —  
